@@ -4,6 +4,24 @@ layout: default
 
 # Publications
 
+## Mobile Web [PDF](https://link.springer.com/chapter/10.1007/978-1-4471-7440-0_37#citeas)
+<p align="center">
+    <img src="https://github.com/AndreFPRodrigues/home/blob/master/img/app_layoutV2.png?raw=true" alt="10 different smartphone applications with 10 very different interfaces."/>
+</p>
+
+Guerreiro T., Carriço L., Rodrigues A. (2019) Mobile Web. In: Yesilada Y., Harper S. (eds) Web Accessibility. Human–Computer Interaction Series. Springer, London
+* * *
+
+## Exploring Collaborative Interactions Between Robots and Blind People [PDF](https://ieeexplore.ieee.org/abstract/document/8673312/media#media)
+<p align="center">
+    <img src="https://github.com/AndreFPRodrigues/home/blob/master/img/conditionsrobot.png?raw=true" alt="Two blind people doing a tagram puzzle with the help of a robot. One the robot is helping the user with its arms (Condition CAR); in the other the robot is still just providing audio instructions (Condition VOAR). "/>
+</p>
+
+F. Correia, R. Oliveira, M. Bonani, A. Rodrigues, T. Guerreiro and A. Paiva, "Exploring Collaborative Interactions Between Robots and Blind People," 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI), Daegu, Korea (South), 2019, pp. 365-365.
+doi: 10.1109/HRI.2019.8673312 
+* * *
+
+# 2018
 ## AidMe: Interactive Non-Visual Smartphone Tutorials [PDF](./pub/mobilehci18_aidme.pdf)
 
 André Rodrigues, Leonardo Camacho, Hugo Nicolau, Kyle Montague, Tiago Guerreiro
