@@ -18,7 +18,7 @@ Guerreiro T., Carriço L., Rodrigues A. (2019) Mobile Web. In: Yesilada Y., Harp
 </p>
 
 F. Correia, R. Oliveira, M. Bonani, A. Rodrigues, T. Guerreiro and A. Paiva, "Exploring Collaborative Interactions Between Robots and Blind People," 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI), Daegu, Korea (South), 2019, pp. 365-365.
-doi: 10.1109/HRI.2019.8673312 
+doi: 10.1109/HRI.2019.8673312 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Best Video Award`
 * * *
 
 # 2018
