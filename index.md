@@ -19,7 +19,8 @@ In this chapter, we focus our attention on the specific challenges of mobile dev
 
 Our goal is to disseminate an exploratory investigation that examined how physical presence and collaboration can be important factors in the development of assistive robots that can go beyond information-giving technologies. In particular, this video exhibits the setting and procedures of a user study that explored different types of collaborative interactions between robots and blind people.
 
-## Poster MobileHCI 2018 
+# 2018
+## Poster MobileHCI 
 **AidMe: Interactive Non-Visual Smartphone Tutorials [PDF](./pub/mobilehci18_aidme.pdf)**
 
 AidMe is a system-wide authoring and playthrough of non-visual interactive tutorials. Tutorials are created via user demonstration and narration. We relied on AidMe to conduct a preliminary study with 11 blind participants gaining insights into the development of accessible interactive non-visual tutorials.
@@ -27,7 +28,7 @@ AidMe is a system-wide authoring and playthrough of non-visual interactive tutor
 
 *** 
 
-## Paper ASSETS 2018 
+## Paper ASSETS 
 **What My Eyes Can’t See, A Robot Can Show Me: Exploring the Collaboration Between Blind People and Robots [PDF](./pub/assets18_robot.pdf)**
 <p align="center">
     <img src="https://github.com/AndreFPRodrigues/home/blob/master/img/assests2018.png?raw=true" alt="Blind person touching a robot extended arm"/>
