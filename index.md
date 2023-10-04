@@ -1,4 +1,3 @@
-NOt Compiling :)
 ---
 layout: default
 ---
